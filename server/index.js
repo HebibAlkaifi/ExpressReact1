@@ -21,4 +21,4 @@ app.listen(port, () => {
     console.log(`Server is running on port ${port}`)
 })
 
-// image is random-image.jpeg
+// image is random-image.jpeg/OIP.jpeg
